@@ -9,3 +9,4 @@ Fine-tuned vit-base-patch16-224-in21k model on Hugging Face with 'FastJobs/Visua
   5. Inference
 
 You can access the emotion-identifier app hosted on Hugging Face Spaces (leveraging Gradio here - **https://huggingface.co/spaces/Deepri24/Emotion_identifier**
+![image](https://github.com/user-attachments/assets/ac8c7775-da6b-43dc-8ccd-a41651d57bf3)
